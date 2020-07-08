@@ -31,4 +31,3 @@ jobs:
     - run: |
         mvn clean install
         mvn test
-        mvn site
